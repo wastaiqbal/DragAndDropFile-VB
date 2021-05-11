@@ -1,0 +1,9 @@
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DragAndDropFile\DragAndDropFile\bin\Debug\DragAndDropFile.exe
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DragAndDropFile\DragAndDropFile\bin\Debug\DragAndDropFile.pdb
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DragAndDropFile\DragAndDropFile\bin\Debug\DragAndDropFile.xml
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DragAndDropFile\DragAndDropFile\obj\x86\Debug\DragAndDropFile.Form1.resources
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DragAndDropFile\DragAndDropFile\obj\x86\Debug\DragAndDropFile.Resources.resources
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DragAndDropFile\DragAndDropFile\obj\x86\Debug\DragAndDropFile.vbproj.GenerateResource.Cache
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DragAndDropFile\DragAndDropFile\obj\x86\Debug\DragAndDropFile.exe
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DragAndDropFile\DragAndDropFile\obj\x86\Debug\DragAndDropFile.xml
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DragAndDropFile\DragAndDropFile\obj\x86\Debug\DragAndDropFile.pdb
